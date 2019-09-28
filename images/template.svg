@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>template</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-39.000000, -102.000000)" fill="#303030" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(30.000000, 102.000000)">
+                <path d="M31.95,0.15 L11.55,0.15 C10.22694,0.15 9.15,1.22694 9.15,2.55 L9.15,22.95 C9.15,24.27306 10.22694,25.35 11.55,25.35 L31.95,25.35 C33.27306,25.35 34.35,24.27306 34.35,22.95 L34.35,2.55 C34.35,1.22694 33.27306,0.15 31.95,0.15 Z M31.95,9.75 L21.15,9.75 L21.15,2.55 L31.95,2.55 L31.95,9.75 Z M11.55,2.55 L18.75,2.55 L18.75,22.95 L11.55,22.95 L11.55,2.55 Z M21.15,22.95 L21.15,12.15 L31.9512,12.15 L31.9523718,22.95 L21.15,22.95 Z" id="template"></path>
+            </g>
+        </g>
+    </g>
+</svg>
