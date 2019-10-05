@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
-<<<<<<< master
-<!--  Last Published: Fri Oct 04 2019 06:41:50 GMT+0000 (UTC)  -->
-=======
 <!--  Last Published: Sat Oct 05 2019 14:45:49 GMT+0000 (UTC)  -->
->>>>>>> fix layout & add lottie tutorial
-<html data-wf-page="5d91aeba124e072c0a1dc390" data-wf-site="5d8fa8f0d12b5b19258f5db2">
+<html data-wf-page="5d9221b5774fe721648258e5" data-wf-site="5d8fa8f0d12b5b19258f5db2">
 <head>
   <meta charset="utf-8">
-  <title>Search Results</title>
-  <meta content="Search Results" property="og:title">
+  <title>test tab</title>
+  <meta content="test tab" property="og:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
@@ -25,9 +21,37 @@
   <link href="images/webclip.png" rel="apple-touch-icon">
 </head>
 <body>
-  <div class="w-container">
-    <h1>Search results</h1>
-    <form action="/search" class="w-form"><input type="search" class="w-input" maxlength="256" name="query" placeholder="Search…" id="search" required=""><input type="submit" value="Search" class="w-button"></form>
+  <div>
+    <div class="div-block-5">
+      <div class="div-block-6">
+        <a href="#tab-red" class="link-block-4 w-inline-block">
+          <div class="text-block-5">1</div>
+        </a>
+        <a href="#tab-blue" class="link-block-4 w-inline-block">
+          <div class="text-block-5">2</div>
+        </a>
+      </div>
+      <div class="div-block-7">
+        <div data-duration-in="300" data-duration-out="100" class="w-tabs">
+          <div class="tabs-menu w-tab-menu">
+            <a data-w-tab="Tab 1" class="w-inline-block w-tab-link">
+              <div>Tab 1</div>
+            </a>
+            <a data-w-tab="Tab 2" class="w-inline-block w-tab-link w--current">
+              <div>Tab 2</div>
+            </a>
+            <a data-w-tab="Tab 3" class="w-inline-block w-tab-link">
+              <div>Tab 3</div>
+            </a>
+          </div>
+          <div class="tabs-content w-tab-content">
+            <div data-w-tab="Tab 1" id="tab-red" class="tab-pane-tab-1 w-tab-pane"></div>
+            <div data-w-tab="Tab 2" id="tab-blue" class="tab-pane-tab-2 w-tab-pane w--tab-active"></div>
+            <div data-w-tab="Tab 3" class="tab-pane-tab-3 w-tab-pane"></div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
