@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="70px" viewBox="0 0 55 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>np_shapes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shape-svg-copy" transform="translate(-1025.000000, -165.000000)" fill="#353535" fill-rule="nonzero">
+            <g id="np_shapes" transform="translate(1025.000000, 165.000000)">
+                <path d="M34.129,0.277 L23.184,19.234 L0.485,19.234 L0.485,53.023 L13.473,53.023 C14.5199,62.2027 22.3207,69.355 31.774,69.355 C41.934,69.355 50.204,61.0894 50.204,50.925 C50.204,44.4758 46.8681,38.796 41.8368,35.503 L54.4658,35.503 L34.129,0.277 Z M4.223,49.285 L4.223,22.973 L21.028,22.973 L13.7936,35.504 L29.8326,35.504 L29.8326,49.285 L4.223,49.285 Z M46.465,50.9256 C46.465,59.0272 39.8752,65.6206 31.774,65.6206 C24.3873,65.6206 18.274,60.1362 17.251,53.0226 L33.571,53.0226 L33.571,36.3546 C40.8249,37.24522 46.466,43.4327 46.466,50.9246 L46.465,50.9256 Z M20.266,31.7656 L34.129,7.7496 L47.992,31.7656 L20.266,31.7656 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
